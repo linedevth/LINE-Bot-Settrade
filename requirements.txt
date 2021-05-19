@@ -1,0 +1,5 @@
+Flask
+gunicorn
+requests
+line-bot-sdk
+settrade
